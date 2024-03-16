@@ -21,4 +21,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For additional features or requests, feel free to contact me on discord or open an issue on the Repo. Your feedback and contributions are welcome to help improve the library's functionality and usability.
+For additional features or requests, feel free to contact us on discord or open an issue on the [Repo](https://github.com/xylex-ai/fibonacci_retracement). Your feedback and contributions are welcome to help improve the library's functionality and usability.
